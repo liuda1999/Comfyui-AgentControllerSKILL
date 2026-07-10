@@ -1,4 +1,4 @@
-支持任何智能体都可使用的 ComfyUI 自动化控制工具 —— 用户通过自然语言描述需求，智能体即可自动生成图文、视频的复杂工作流并执行生成。
+支持任何智能体都可使用的 ComfyUI 自动化控制工具 —— 用户可以使用自然语言描述需求，智能体即可自动生成图文、视频的复杂工作流并执行生成。
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
